@@ -7,3 +7,9 @@ metho()
 {
 	print("my name is –°∑…≈£");
 }
+
+test()
+{
+	
+	print("≤‚ ‘∑Ω∑®");
+}
